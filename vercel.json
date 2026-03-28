@@ -1,4 +1,0 @@
-{
-  "framework": "streamlit",
-  "installCommand": "pip install -r requirements.txt"
-}
